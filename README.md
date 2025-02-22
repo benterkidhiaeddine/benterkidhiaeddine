@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Refine Framework and react</p>
+<p align="left">✨ Creating bugs since 2022</p>
 
 ###
 
