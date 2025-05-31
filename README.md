@@ -14,7 +14,15 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+## 🌱 I’m currently learning
+
+<a href="https://nextjs.org/">
+  <img src="assets/nextjs-icon.svg" alt="Next.js" width="40" height="40">
+</a>
+<a href="https://refine.dev/">
+  <img src="assets/refine-icon.png" alt="Refine" width="40" height="40">
+</a>
+<h2 align="left">I Build with</h2>
 
 ###
 
